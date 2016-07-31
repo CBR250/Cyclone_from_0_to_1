@@ -1,0 +1,65 @@
+3D打印机控制板套件2560R3主控+RAMPS 1.4+4988驱动(4个)
+https://world.taobao.com/item/524817100892.htm?fromSite=main&spm=a1z09.2.0.0.OY2Kyb&_u=u1k9rk26b809
+
+直流電機 調速器 泵 pwm 無級變速 調速開關 高效率 12V-40V 10A
+https://world.tmall.com/item/45664256250.htm?id=45664256250&ali_refid=a3_430620_1006:1109448581:N:%E8%B0%83%E9%80%9F%E5%99%A8:fd13f578f412c92f4a23926049e9a64f&ali_trackid=1_fd13f578f412c92f4a23926049e9a64f&spm=a312a.7700714.0.0.eibR5S
+
+220V转24V 12.5A DC 直流 24伏 稳压变压器300W 开关电源S-300-24
+https://world.taobao.com/item/520248148993.htm?spm=a312a.7700714.0.0.tLPXKT#detail
+
+42步进电机 NEMA 17 1.7A 1.8°机身48MM 0.49N.m雕刻机 两相4线
+https://world.taobao.com/item/533831850947.htm?spm=a312a.7700714.0.0.NfuMZH#detail
+
+弹簧扭簧1.4mm-1.8线径扭力弹簧各种夹子弹簧定制外径6-20异形
+https://world.taobao.com/item/35402052233.htm?fromSite=main&ali_refid=a3_430620_1006:1106655551:N:%E5%BC%82%E5%BD%A2%E5%BC%B9%E7%B0%A7:293cb6e7abc6b544b980d7ddce7cb3f5&ali_trackid=1_293cb6e7abc6b544b980d7ddce7cb3f5&spm=a312a.7700714.0.0.hQV3mj
+
+############################################################
+Bill of materials
+https://github.com/carlosgs/Cyclone-PCB-Factory/wiki/Bill-of-materials
+
+Screws
+12.9级圆柱杯头内六角螺丝M3*4X5X6X8X10X12X14X16X18X20X22-50mm
+M3x18mm 	43
+M3x10mm 	16
+M3x20mm 	4
+M3x8mm 	    6
+M3x25mm 	5
+https://world.taobao.com/item/21550675494.htm?spm=a312a.7700714.0.0.boGAAB#detail
+
+set/grub screw M3x4mm 	3
+https://world.taobao.com/item/527798461908.htm?spm=a312a.7700714.0.0.sBK5kr#detail
+###################
+Washers
+304不鏽鋼平墊片墊圈GB97 
+https://world.taobao.com/item/39220235151.htm?fromSite=main&spm=a312a.7700824.w4002-7746043631.10.b5aufO
+
+###################
+Nuts
+304不锈钢螺母\六角螺帽 螺丝帽
+https://world.taobao.com/item/39211103460.htm?spm=a312a.7700714.0.0.eYaOSr#detail
+
+201/304不鏽鋼鎖緊螺母\自鎖螺帽\尼帽\尼龍\防松\防脫 M3M4-M20
+https://world.taobao.com/item/39801137771.htm?fromSite=main&spm=a312a.7700824.w4002-7746043631.24.M0TQup
+
+###################
+Bearings
+3D打印機 直線軸承LM8UU/LM6UU/5uu
+https://world.taobao.com/item/42202909079.htm?spm=a312a.7700714.0.0.hxcGIQ#detail
+
+國產高精密直線軸承B688 B608ZZ f688ZZ
+https://world.taobao.com/item/42967042082.htm?spm=a312a.7700714.0.0.US12T1#detail
+
+###################
+Smooth rods
+
+直線光軸 45鋼光杆渡洛棒支撐軸5 6 8 10 12 15 16 20 25 30 40mm
+https://world.taobao.com/item/40751966667.htm?spm=a312a.7700714.0.0.ymglpY#detail
+###################
+Threaded rods
+鍍鋅牙條/通絲螺杆/全螺紋牙棒/全牙螺紋杆/全牙絲杆M8*50-M8*300
+https://world.taobao.com/item/43987488377.htm?spm=a312a.7700714.0.0.LmryVq#detail
+
+###################
+Miscellaneous
+3D打印机 机械限位开关模块V1.2 End Stop 三维打印机 endstop
+https://world.taobao.com/item/533679757550.htm?spm=a312a.7700714.0.0.jiO7mx#detail
